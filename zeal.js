@@ -1,12 +1,12 @@
 //fill up the lessons
 
-zeal = {
+zeal = {super teens}
   "teen": {
     1: {
-      topic: "",
-      memory_verse_ref: "",
-      memory_verse_text: "",
-      bible_text_ref: "",
+      topic: "salvation",
+      memory_verse_ref: "Romans 10:9",
+      memory_verse_text: "that if thou shall confess with thy mouth the lord jesus,and shalt belive in thine heart that God hath raised him from the dead,thou shall be saved ",
+      bible_text_ref: "Roman 10:9,Acts 4:12",
       bible_text_text: "",
     },
   },
